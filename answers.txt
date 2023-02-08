@@ -1,0 +1,2 @@
+What is a remote repository?
+a remote repository is the repository on github.com/website. The one on the machine is the local repository.
